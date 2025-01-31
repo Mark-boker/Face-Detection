@@ -1,1 +1,4 @@
 基于OpenCV包进行人脸识别项目
+face_detect.py 进行自己的人脸识别
+faces_xunlian.py进行识别图片进行模型训练
+faces_capture_test.py通过模型进行摄像头置信度打分
